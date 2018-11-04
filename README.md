@@ -1,3 +1,3 @@
 # A simple React App
 
-This is a simple starter React App... 
+<img src="https://github.com/parvathy-santhosh/Beginners-React-App/blob/master/screenshot.png?raw=true">
